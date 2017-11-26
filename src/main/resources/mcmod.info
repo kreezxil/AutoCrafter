@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autocrafter",
+  "name": "Auto Crafter",
+  "description": "Automatic crafting without recipe conflict issues",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheIncgi"],
+  "credits": "The Forge and FML guys, for making this possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
